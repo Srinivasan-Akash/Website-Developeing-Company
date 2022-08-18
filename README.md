@@ -1,7 +1,7 @@
 # Website-Developeing-Company [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is basically a full blown website made in HTML/CSS for an imaginary website developeming and hosting company like wix on the internet.
-Hope you like my project !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
+Hope you like my project !! And Note that I have made it responsive it only works in laptop screen and Mobile screen that is from 370px to 480px.
 
 
 ## 🛠 Technologies Used
@@ -9,9 +9,14 @@ Hope you like my project !! And Note that I haven't made it responsive it only w
   - CSS - Cascadeing Spread Sheet
   - CSS Flex Box
 
-## Demo
+## Demo for laptop screens
 
 https://user-images.githubusercontent.com/108281031/181266882-f8bb4bc8-9eea-459b-bece-062ace21c916.mp4
+
+
+## Demo for mobile screens
+
+https://user-images.githubusercontent.com/108281031/185440718-80798337-f11d-4cb2-a5c9-001b3702fd8c.mp4
 
 
 ## Run Locally
